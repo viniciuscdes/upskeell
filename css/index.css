@@ -1,0 +1,35 @@
+ 
+.header-auto {
+    margin-bottom: auto;
+}
+
+.index-container {
+	background-color: #3F37C9; 
+	text-align: center;
+  max-width: 42em;
+}
+
+.main-auto {
+  margin-top:  20%;
+  margin-bottom:  20%;
+}
+
+p{
+  color: #fff; 
+}
+
+.logo{
+ font-size: large;
+}
+
+.logo-p{
+  margin-top: 10px;
+}
+
+.subscribe{
+  font-size: small;
+}
+ 
+.subscribe-p{
+  margin-bottom: 10px;
+}
